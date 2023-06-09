@@ -13,7 +13,7 @@ body{
     padding: 5%;
 }
 .header{
-    background-image: url('../images/home.jpeg');
+    background-image: url('home.jpeg');
     background-size: cover;
     position: relative;
     overflow: hidden;
