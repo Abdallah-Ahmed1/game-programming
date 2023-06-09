@@ -18,7 +18,7 @@ body{
     position: relative;
     overflow: hidden;
     opacity: .7;
-    z-index: 10px;
+    z-index: 10;
     
 }
 
@@ -213,7 +213,7 @@ color: #000;
 }
 .box{
     background-color: #f0f2f1;
-    width: 240px;
+    width: 230px;
     margin-bottom: 25px;
     border-radius: 2px;
     display: flex;
